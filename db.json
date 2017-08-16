@@ -1,5 +1,5 @@
 {
-  "Recent": [
+  "RecentWriter": [
     {
       "Name": "exalted",
       "IPI": 314398,
@@ -27,7 +27,7 @@
     }
     
   ],
-   "Result": [
+   "WriterResult": [
     {
       "Name": "keras",
       "IPI": 314398,
